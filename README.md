@@ -7,4 +7,8 @@
 
 ## Use the dlls
 
-`cc main.c && ./a.out`
+On Linux:
+`cc main_linux.c && ./a.out`
+
+On Windows:
+`cc main_windows.c && ./a.exe`
